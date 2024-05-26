@@ -59,7 +59,7 @@ button_pressed_time = None
 long_press_threshold = 2  # 長押しの閾値（秒）
 
 # RTSP URL
-url = "rtsp://yuhei0531:m09080531@192.168.11.39:554/stream1"
+url = "your_key"
 drive = "D:"
 directory = "output"
 
